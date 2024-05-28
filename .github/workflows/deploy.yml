@@ -27,7 +27,7 @@ jobs:
 
       - name: Deploy
         id: deploy
-        uses: jinfucs/hexo-action@v1.0.6
+        uses: jinfucs/hexo-action@v1.0.7
         with:
           deploy_key: ${{ secrets.DEPLOY_KEY }}
           user_name: jinfucs  # (or delete this input setting to use bot account)
