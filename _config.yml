@@ -8,8 +8,8 @@ subtitle: ''
 description: ''
 keywords:
 author: 罗理事
-language: zh-cn
-timezone: '+8'
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Gradient
+theme: fluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
